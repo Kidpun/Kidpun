@@ -18,7 +18,7 @@
 ### 💻 Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,bash,linux,docker,git,github" />
 </p>
 
 ---
