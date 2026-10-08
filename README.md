@@ -6,41 +6,47 @@
 
 <img src="https://komarev.com/ghpvc/?username=Kidpun&color=8A5CFF&style=flat-square" />
 
+<p>
+  <b>Backend & Automation Developer</b><br>
+  Focused on asynchronous Python, Telegram ecosystem, automation pipelines & network tooling.
+</p>
+
 </div>
 
 ---
 
-## Tech Stack
+### 💻 Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,java,html,css,bash,linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,js,ts" />
 </p>
 
 ---
 
-## Technologies
+### ⚡ Technologies & Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_3.11+-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/asyncio-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiohttp-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_API-111111?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/asyncio-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/aiohttp-111111?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VPN-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSH-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS/VDS-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_/_Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking_/_SSH-111111?style=for-the-badge" />
 </p>
 
 ---
 
-## Setup
+### 🖥 Environment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/macOS_Sequoia-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/MacBook_Air_M1-111111?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/zsh-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -48,10 +54,10 @@
 
 ---
 
-## Social
+### 📬 Contact
 
 <p align="left">
   <a href="https://t.me/pentawork">
-    <img src="https://img.shields.io/badge/Telegram-@pentawork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-@pentawork-8A5CFF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
